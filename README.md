@@ -1,4 +1,4 @@
-# js-utils
+# js-utils test
 
 A comprehensive collection of utility functions for Node.js, React.js, and Vue.js environments, designed to enhance productivity and simplify common tasks.
 
